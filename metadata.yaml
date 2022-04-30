@@ -1,5 +1,5 @@
 homepage: "https://gtm-gear.com/"
 documentation: "https://gtm-gear.com/templates/date-diff/"
 versions:
-  - sha: 123
+  - sha: cecc3ea9a68659335a18e431d67ffc366837c2cf
     changeNotes: Initial release.
